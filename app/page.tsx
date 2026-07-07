@@ -692,7 +692,7 @@ export default function HomePage() {
             </Card>
             <p className="text-center text-sm text-gray-500 mt-5">
               <a
-                href="https://www.google.com/maps?cid=16300972554586694743"
+                href="https://g.page/r/CU-nHo5Ccn6QEBM/review"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-700 underline font-medium"
